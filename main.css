@@ -1,0 +1,10 @@
+.small-bx {
+	border: solid gray 1px;
+	width: 200px;
+	height: 24px;
+}
+
+.editTxt {
+	display: none;
+	width: 200px;
+}
